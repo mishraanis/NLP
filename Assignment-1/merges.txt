@@ -1,998 +1,1000 @@
-('i', 'feel')	1
-('i', 'am')	1
-('i', 'was')	1
-('ifeel', 'like')	1
-('i', 'have')	1
-('im', 'feeling')	1
-('to', 'be')	1
-('to', 'feel')	1
-('of', 'the')	1
-('in', 'the')	1
-('and', 'i')	1
-('that', 'i')	1
-('a', 'little')	1
-('ifeel', 'so')	1
-('iam', 'feeling')	1
-('i', 'can')	1
-('a', 'bit')	1
-('when', 'i')	1
-('at', 'the')	1
-('i', 'know')	1
-('in', 'my')	1
-('to', 'the')	1
-('don', 't')	1
-('i', 'dont')	1
-('i', 'just')	1
-('want', 'to')	1
-('in', 'a')	1
-('i', 'do')	1
-('iwas', 'feeling')	1
-('feel', 'like')	1
-('with', 'the')	1
-('on', 'the')	1
-('i', 'could')	1
-('for', 'the')	1
-('i', 'think')	1
-('of', 'my')	1
-('i', 'm')	1
-('i', 'still')	1
-('need', 'to')	1
-('and', 'the')	1
-('me', 'feel')	1
-('i', 'would')	1
-('about', 'it')	1
-('i', 'had')	1
-('i', 'didnt')	1
-('by', 'the')	1
-('and', 'feel')	1
-('all', 'the')	1
-('going', 'to')	1
-('im', 'not')	1
-('for', 'a')	1
-('i', 'love')	1
-('i', 'really')	1
-('the', 'feeling')	1
-('ive', 'been')	1
-('on', 'my')	1
-('with', 'my')	1
-('as', 'i')	1
-('ifeel', 'very')	1
-('to', 'me')	1
-('of', 'a')	1
-('but', 'it')	1
-('ifeel', 'that')	1
-('i', 'get')	1
-('to', 'have')	1
-('to', 'do')	1
-('i', 'did')	1
-('like', 'a')	1
-('ifeellike', 'im')	1
-('with', 'a')	1
-('from', 'the')	1
-('href', 'http')	1
-('it', 'is')	1
-('to', 'get')	1
-('i', 'also')	1
-('about', 'the')	1
-('so', 'much')	1
-('i', 'will')	1
-('a', 'lot')	1
-('to', 'my')	1
-('i', 'should')	1
-('for', 'me')	1
-('kind', 'of')	1
-('a', 'feeling')	1
-('it', 'was')	1
-('in', 'this')	1
-('a', 'hrefhttp')	1
-('to', 'make')	1
-('i', 'remember')	1
-('i', 'felt')	1
-('right', 'now')	1
-('which', 'is')	1
-('about', 'my')	1
-('istill', 'feel')	1
-('ihave', 'been')	1
-('i', 'always')	1
-('will', 'be')	1
-('this', 'is')	1
-('ifeel', 'the')	1
-('on', 'a')	1
-('ivebeen', 'feeling')	1
-('of', 'feeling')	1
-('such', 'a')	1
-('it', 'feels')	1
-('you', 'feel')	1
-('iam', 'not')	1
-('would', 'be')	1
-('as', 'a')	1
-('to', 'say')	1
-('but', 'i')	1
-('not', 'feel')	1
-('more', 'than')	1
-('i', 'got')	1
-('it', 's')	1
-('for', 'my')	1
-('of', 'this')	1
-('because', 'i')	1
-('idont', 'know')	1
-('that', 'my')	1
-('at', 'all')	1
-('feel', 'that')	1
-('what', 'i')	1
-('at', 'least')	1
-('and', 'my')	1
-('to', 'see')	1
-('out', 'of')	1
-('trying', 'to')	1
-('sort', 'of')	1
-('i', 'like')	1
-('back', 'to')	1
-('feel', 'the')	1
-('ididnt', 'feel')	2
-('so', 'many')	1
-('and', 'not')	1
-('imfeeling', 'alittle')	1
-('we', 'are')	1
-('about', 'this')	1
-('help', 'but')	1
-('i', 'started')	1
-('to', 'her')	1
-('and', 'have')	1
-('look', 'at')	1
-('ijust', 'feel')	1
-('to', 'a')	1
-('inmy', 'life')	1
-('ididn', 't')	1
-('there', 'is')	1
-('makes', 'me')	1
-('he', 'was')	1
-('feeling', 'alittle')	1
-('people', 'who')	1
-('sense', 'of')	1
-('ifeel', 'a')	1
-('the', 'way')	1
-('you', 'are')	1
-('made', 'mefeel')	1
-('i', 'wanted')	1
-('i', 'try')	1
-('iremember', 'feeling')	1
-('have', 'a')	1
-('up', 'feeling')	1
-('to', 'keep')	1
-('from', 'my')	1
-('ifeel', 'more')	1
-('this', 'way')	1
-('i', 'guess')	1
-('passionate', 'about')	1
-('feeling', 'of')	1
-('it', 'all')	1
-('life', 'is')	1
-('and', 'a')	1
-('i', 'often')	1
-('i', 'only')	1
-('ifeel', 'really')	1
-('the', 'one')	1
-('helpbut', 'feel')	1
-('of', 'me')	1
-('through', 'the')	1
-('how', 'to')	1
-('i', 'hope')	1
-('feeling', 'like')	1
-('have', 'been')	1
-('the', 'most')	1
-('at', 'this')	1
-('able', 'to')	1
-('too', 'much')	1
-('that', 'are')	1
-('i', 'thought')	1
-('same', 'time')	1
-('a', 'very')	1
-('i', 'see')	1
-('by', 'this')	1
-('with', 'me')	1
-('that', 'he')	1
-('to', 'know')	1
-('i', 've')	1
-('make', 'mefeel')	1
-('i', 'wish')	1
-('imfeeling', 'abit')	1
-('to', 'think')	1
-('still', 'feeling')	1
-('just', 'a')	1
-('to', 'go')	1
-('but', 'the')	1
-('dazed', 'and')	1
-('with', 'him')	1
-('doesn', 't')	1
-('my', 'heart')	1
-('this', 'morning')	1
-('when', 'we')	1
-('to', 'find')	1
-('is', 'not')	1
-('my', 'feelings')	1
-('when', 'he')	1
-('and', 'more')	1
-('as', 'well')	1
-('and', 'was')	1
-('feel', 'so')	1
-('a', 'few')	1
-('a', 'good')	1
-('i', 'start')	1
-('me', 'to')	1
-('they', 'are')	1
-('has', 'been')	1
-('and', 'just')	1
-('around', 'me')	1
-('i', 'find')	1
-('i', 'never')	1
-('im', 'sure')	1
-('he', 'is')	1
-('of', 'our')	1
-('the', 'last')	1
-('idontknow', 'why')	1
-('these', 'days')	1
-('when', 'you')	1
-('by', 'my')	1
-('like', 'that')	1
-('to', 'give')	1
-('im', 'just')	1
-('to', 'start')	1
-('every', 'day')	1
-('atthe', 'sametime')	1
-('and', 'how')	1
-('enough', 'to')	1
-('allthe', 'time')	1
-('ican', 't')	1
-('atthe', 'moment')	1
-('it', 'wouldbe')	1
-('starting', 'tofeel')	1
-('i', 'wont')	2
-('of', 'those')	1
-('so', 'i')	1
-('amount', 'of')	1
-('or', 'something')	1
-('for', 'some')	1
-('ishould', 'be')	1
-('ialways', 'feel')	1
-('i', 'took')	1
-('up', 'with')	1
-('ifeelthe', 'needto')	1
-('i', 'hate')	1
-('at', 'times')	1
-('at', 'me')	1
-('like', 'to')	1
-('left', 'feeling')	1
-('feeling', 'very')	1
-('idont', 'feel')	1
-('when', 'they')	1
-('some', 'ofthe')	1
-('overwhelmed', 'by')	1
-('at', 'how')	1
-('can', 'be')	1
-('should', 'be')	1
-('most', 'ofthe')	1
-('if', 'i')	1
-('and', 'that')	1
-('but', 'atthesametime')	1
-('on', 'this')	1
-('and', 'happy')	1
-('i', 'even')	1
-('away', 'from')	1
-('other', 'people')	1
-('first', 'time')	1
-('out', 'and')	1
-('or', 'not')	1
-('for', 'her')	1
-('of', 'it')	1
-('you', 'have')	1
-('found', 'myself')	1
-('for', 'that')	1
-('to', 'you')	1
-('with', 'no')	1
-('rather', 'than')	1
-('i', 'wantto')	1
-('as', 'my')	1
-('ifeel', 'pretty')	1
-('i', 'hear')	1
-('or', 'two')	1
-('to', 'help')	1
-('out', 'the')	1
-('from', 'a')	1
-('fora', 'while')	1
-('at', 'my')	1
-('i', 'began')	1
-('i', 'went')	1
-('feels', 'like')	1
-('not', 'be')	1
-('make', 'youfeel')	1
-('fucked', 'up')	1
-('could', 'be')	1
-('reluctant', 'to')	1
-('ifeel', 'weird')	1
-('ifeel', 'surprised')	1
-('each', 'other')	1
-('to', 'take')	1
-('feeling', 'so')	1
-('in', 'general')	1
-('but', 'feeling')	1
-('ifeellike', 'iam')	1
-('to', 'him')	1
-('and', 'now')	1
-('ofmy', 'life')	1
-('with', 'her')	1
-('ihad', 'a')	1
-('up', 'and')	1
-('i', 'spent')	1
-('ifeellike', 'ive')	1
-('is', 'being')	1
-('of', 'her')	1
-('really', 'really')	1
-('who', 'are')	1
-('me', 'a')	1
-('this', 'year')	1
-('but', 'now')	1
-('of', 'you')	1
-('i', 'used')	1
-('is', 'that')	1
-('iget', 'thefeeling')	1
-('and', 'sad')	1
-('in', 'that')	1
-('even', 'though')	1
-('him', 'feel')	1
-('last', 'night')	1
-('that', 'we')	1
-('couple', 'of')	1
-('with', 'friends')	1
-('won', 't')	1
-('not', 'only')	1
-('would', 'have')	1
-('if', 'you')	1
-('of', 'things')	1
-('around', 'my')	1
-('when', 'the')	1
-('ican', 'feel')	1
-('feeling', 'that')	1
-('ifeellike', 'its')	1
-('at', 'work')	1
-('did', 'not')	1
-('no', 'one')	1
-('than', 'the')	1
-('doing', 'something')	1
-('but', 'also')	1
-('of', 'course')	1
-('iwould', 'feel')	1
-('because', 'she')	1
-('i', 'want')	1
-('talk', 'about')	1
-('supposed', 'tobe')	1
-('as', 'the')	1
-('for', 'you')	1
-('as', 'you')	1
-('you', 'can')	1
-('ifind', 'myself')	1
-('ifeelso', 'blessed')	1
-('ido', 'feel')	1
-('to', 'it')	1
-('how', 'ifeel')	1
-('alittle', 'bit')	1
-('over', 'and')	1
-('to', 'tell')	1
-('iknow', 'its')	1
-('six', 'days')	1
-('really', 'weird')	1
-('ireally', 'feel')	1
-('at', 'her')	1
-('over', 'the')	1
-('smile', 'and')	1
-('src', 'http')	1
-('but', 'thats')	1
-('is', 'just')	1
-('this', 'blog')	1
-('like', 'the')	1
-('feel', 'very')	1
-('for', 'it')	1
-('ever', 'since')	1
-('last', 'year')	1
-('ido', 'notfeel')	1
-('tofeel', 'my')	1
-('in', 'his')	1
-('ifeel', 'it')	1
-('mostofthe', 'time')	1
-('icould', 'feel')	1
-('iam', 'goingto')	1
-('because', 'my')	1
-('like', 'this')	1
-('more', 'andmore')	1
-('whole', 'thing')	1
-('having', 'a')	1
-('to', 'this')	1
-('it', 'a')	1
-('go', 'through')	1
-('life', 'and')	1
-('alot', 'of')	1
-('you', 'know')	1
-('ihave', 'to')	1
-('through', 'a')	1
-('im', 'so')	1
-('iam', 'very')	1
-('in', 'order')	1
-('will', 'feel')	1
-('i', 'almost')	1
-('because', 'they')	1
-('i', 'said')	1
-('ahrefhttp', 'www')	1
-('istarted', 'feeling')	1
-('as', 'though')	1
-('as', 'possible')	1
-('of', 'people')	1
-('have', 'the')	1
-('imnot', 'sure')	1
-('when', 'my')	1
-('reminds', 'me')	1
-('and', 'we')	1
-('ilove', 'you')	1
-('whenim', 'feeling')	1
-('ialso', 'feel')	1
-('they', 'feel')	1
-('a', 'day')	1
-('i', 'go')	1
-('and', 'loved')	1
-('of', 'others')	1
-('to', 'read')	1
-('by', 'it')	1
-('full', 'of')	1
-('i', 'keep')	1
-('imfeeling', 'generous')	1
-('and', 'will')	1
-('to', 'describe')	1
-('that', 'a')	1
-('ifeel', 'kinda')	1
-('i', 'woke')	1
-('be', 'feeling')	1
-('of', 'not')	1
-('to', 'play')	1
-('of', 'that')	1
-('in', 'front')	1
-('ifeellike', 'ishould')	1
-('to', 'come')	1
-('me', 'or')	1
-('growing', 'up')	1
-('that', 's')	1
-('on', 'his')	1
-('atthis', 'point')	1
-('tender', 'and')	1
-('end', 'up')	1
-('with', 'this')	1
-('fond', 'of')	1
-('that', 'will')	1
-('about', 'a')	1
-('to', 'hear')	1
-('to', 'write')	1
-('sympathetic', 'and')	1
-('ifeellike', 'my')	1
-('is', 'a')	1
-('i', 'needto')	1
-('that', 'hasbeen')	1
-('ifeel', 'iam')	1
-('in', 'some')	1
-('things', 'that')	1
-('pissed', 'off')	1
-('and', 'every')	1
-('going', 'on')	1
-('ifeel', 'funny')	1
-('overwhelmed', 'and')	1
-('ifeel', 'curious')	1
-('iwanted', 'to')	1
-('ifeel', 'horrible')	1
-('my', 'head')	1
-('ended', 'up')	1
-('here', 'iam')	1
-('things', 'are')	1
-('about', 'life')	1
-('iwasfeeling', 'pretty')	1
-('idont', 'think')	1
-('ifeel', 'sad')	1
-('it', 'will')	1
-('high', 'school')	1
-('im', 'still')	1
-('wanting', 'to')	1
-('because', 'ofthe')	1
-('ihad', 'been')	1
-('the', 'first')	1
-('to', 'just')	1
-('ido', 'not')	1
-('icant', 'helpbutfeel')	1
-('to', 'stop')	1
-('iknow', 'how')	1
-('hated', 'me')	1
-('to', 'bring')	1
-('two', 'weeks')	1
-('for', 'so')	1
-('ifeel', 'helpless')	1
-('back', 'in')	1
-('to', 'share')	1
-('for', 'feeling')	1
-('and', 'yet')	1
-('that', 'was')	1
-('burdened', 'by')	1
-('after', 'my')	1
-('my', 'best')	1
-('but', 'today')	1
-('when', 'someone')	1
-('that', 'would')	1
-('but', 'still')	1
-('had', 'my')	1
-('to', 'learn')	1
-('i', 'suppose')	1
-('ive', 'made')	1
-('everyone', 'else')	1
-('ifeel', 'rather')	1
-('i', 'say')	1
-('put', 'my')	1
-('tried', 'to')	1
-('i', 'foundmyself')	1
-('and', 'lonely')	1
-('year', 'old')	1
-('had', 'a')	1
-('looking', 'forward')	1
-('up', 'to')	1
-('so', 'happy')	1
-('and', 'less')	1
-('or', 'even')	1
-('forthe', 'past')	1
-('pretty', 'much')	1
-('onmy', 'own')	1
-('to', 'turn')	1
-('ihaven', 't')	1
-('i', 'already')	1
-('the', 'time')	1
-('no', 'matter')	1
-('forsome', 'reason')	1
-('being', 'a')	1
-('do', 'feel')	1
-('of', 'how')	1
-('without', 'feeling')	1
-('see', 'the')	1
-('good', 'things')	1
-('when', 'she')	1
-('to', 'sleep')	1
-('does', 'not')	1
-('you', 'get')	1
-('my', 'dad')	1
-('read', 'the')	1
-('less', 'than')	1
-('onthe', 'phone')	1
-('free', 'to')	1
-('imfeeling', 'really')	1
-('he', 'feels')	1
-('even', 'more')	1
-('they', 'can')	1
-('i', 'd')	1
-('feeling', 'pretty')	1
-('no', 'reason')	1
-('i', 'look')	1
-('iwish', 'icould')	1
-('that', 'makes')	1
-('and', 'think')	1
-('like', 'my')	1
-('in', 'your')	1
-('ive', 'got')	1
-('at', 'a')	1
-('idid', 'feel')	1
-('i', 'truly')	1
-('itruly', 'feel')	1
-('about', 'you')	1
-('the', 'only')	1
-('inmy', 'mind')	1
-('cranky', 'and')	1
-('in', 'one')	1
-('to', 'live')	1
-('my', 'life')	1
-('iam', 'a')	1
-('icant', 'help')	1
-('with', 'our')	1
-('in', 'sucha')	1
-('people', 'feel')	1
-('about', 'supporting')	1
-('down', 'the')	1
-('we', 'had')	1
-('loyal', 'readers')	1
-('that', 'companion')	1
-('ina', 'way')	1
-('tofeel', 'accepted')	1
-('it', 'to')	1
-('was', 'feeling')	1
-('tobe', 'a')	1
-('let', 'go')	1
-('people', 'are')	1
-('up', 'my')	1
-('i', 'wonder')	1
-('so', 'that')	1
-('i', 'ever')	1
-('on', 'your')	1
-('make', 'my')	1
-('for', 'him')	1
-('that', 'feeling')	1
-('wake', 'upfeeling')	1
-('of', 'god')	1
-('who', 'is')	1
-('for', 'this')	1
-('ifeel', 'quite')	1
-('because', 'the')	1
-('agitated', 'and')	1
-('iwas', 'just')	1
-('irritable', 'and')	1
-('stopped', 'feeling')	1
-('ifeel', 'less')	1
-('after', 'all')	1
-('frustrated', 'and')	1
-('i', 'kept')	1
-('about', 'how')	1
-('i', 'sit')	1
-('my', 'own')	1
-('iwasfeeling', 'quite')	1
-('theone', 'thing')	1
-('icant', 'handle')	1
-('let', 's')	1
-('with', 'everything')	1
-('iamfeeling', 'quite')	1
-('overwhelmed', 'withthe')	1
-('by', 'a')	1
-('ifeel', 'hesitant')	1
-('feel', 'weird')	1
-('with', 'it')	1
-('ifeel', 'nervous')	1
-('ifeel', 'strange')	1
-('is', 'the')	1
-('remember', 'feeling')	1
-('confused', 'and')	1
-('we', 'can')	1
-('this', 'weekend')	1
-('dazedand', 'confused')	1
-('a', 'couple')	1
-('real', 'life')	1
-('for', 'eachother')	1
-('not', 'the')	1
-('capable', 'of')	1
-('instead', 'of')	1
-('making', 'the')	1
-('ihavent', 'been')	1
-('somuch', 'more')	1
-('i', 'left')	1
-('ileft', 'the')	1
-('sorry', 'formyself')	1
-('ifeellike', 'it')	1
-('depressed', 'and')	1
-('imjust', 'feeling')	1
-('fear', 'of')	1
-('years', 'ago')	1
-('unloved', 'and')	1
-('about', 'that')	1
-('toa', 'new')	1
-('wouldbe', 'a')	1
-('then', 'feeling')	1
-('and', 'sick')	1
-('is', 'causing')	1
-('work', 'is')	1
-('ifeellike', 'ihavebeen')	1
-('and', 'try')	1
-('in', 'it')	1
-('ihavebeen', 'feeling')	1
-('too', 'long')	1
-('really', 'hard')	1
-('only', 'a')	1
-('ivebeenfeeling', 'abit')	1
-('type', 'of')	1
-('could', 'feel')	1
-('and', 'while')	1
-('tofind', 'a')	1
-('it', 'makesme')	1
-('feeling', 'extremely')	1
-('idont', 'want')	1
-('him', 'tofeel')	1
-('icouldfeel', 'myself')	1
-('i', 'knew')	1
-('a', 'big')	1
-('all', 'myfeelings')	1
-('making', 'mefeel')	1
-('where', 'the')	1
-('to', 'his')	1
-('dont', 'feel')	1
-('least', 'bit')	1
-('and', 'hope')	1
-('its', 'just')	1
-('in', 'feeling')	1
-('really', 'feeling')	1
-('are', 'so')	1
-('all', 'my')	1
-('moments', 'offeeling')	1
-('my', 'friends')	1
-('andi', 'realize')	1
-('more', 'important')	1
-('go', 'home')	1
-('it', 'doesnt')	1
-('im', 'a')	1
-('dont', 'know')	1
-('ifeel', 'stupid')	1
-('her', 'now')	1
-('me', 'from')	1
-('of', 'mine')	1
-('by', 'some')	1
-('to', 'spend')	1
-('them', 'feel')	1
-('im', 'being')	1
-('lots', 'of')	1
-('tofeel', 'better')	1
-('when', 'a')	1
-('idont', 'even')	1
-('even', 'the')	1
-('so', 'the')	1
-('is', 'doing')	1
-('imfeeling', 'quite')	1
-('the', 'needto')	1
-('because', 'ofit')	1
-('will', 'continue')	1
-('because', 'thats')	1
-('the', 'baby')	1
-('and', 'do')	1
-('not', 'really')	1
-('id', 'just')	1
-('we', 'were')	1
-('ifeel', 'kindof')	1
-('in', 'life')	1
-('itry', 'to')	1
-('i', 'need')	1
-('to', 'use')	1
-('and', 'sometimes')	1
-('and', 'lost')	1
-('nice', 'and')	1
-('iamfeeling', 'abit')	1
-('its', 'all')	1
-('take', 'a')	1
-('not', 'as')	1
-('worried', 'about')	1
-('i', 'work')	1
-('someone', 'needs')	1
-('idont', 'like')	1
-('no', 'way')	1
-('point', 'of')	1
-('it', 'might')	1
-('be', 'bothered')	1
-('feeling', 'a')	1
-('of', 'him')	1
-('may', 'be')	1
-('ifeel', 'your')	1
-('time', 'i')	1
-('that', 'time')	1
-('ifeellike', 'were')	1
-('my', 'family')	1
-('nomatter', 'what')	1
-('going', 'backto')	1
-('im', 'tired')	1
-('like', 'me')	1
-('ifeel', 'incredibly')	1
-('let', 'alone')	1
-('i', 'tend')	1
-('or', 'maybe')	1
-('tothe', 'point')	1
-('iamfeeling', 'rather')	1
-('onthe', 'other')	1
-('but', 'not')	1
-('having', 'been')	1
-('and', 'withthe')	1
-('have', 'no')	1
-('is', 'still')	1
-('much', 'aspossible')	1
-('so', 'well')	1
-('inthe', 'world')	1
-('to', 'offer')	1
-('at', 'his')	1
-('with', 'some')	1
-('willbe', 'a')	1
-('until', 'i')	1
-('for', 'now')	1
-('in', 'withthe')	1
-('feel', 'freeto')	1
-('let', 'me')	1
-('letme', 'know')	1
-('ifeel', 'welcomed')	1
-('im', 'the')	1
-('we', 're')	1
-('ofthe', 'bed')	1
-('and', 'excited')	1
-('ihad', 'to')	1
-('feel', 'thisway')	1
-('he', 'had')	1
-('the', 'day')	1
-('sometimes', 'ifeel')	1
-('else', 'that')	1
-('and', 'maybe')	1
-('didn', 't')	1
-('feelings', 'and')	1
-('and', 'grateful')	1
-('toget', 'the')	1
-('ithought', 'id')	1
-('that', 'you')	1
-('up', 'on')	1
-('against', 'the')	1
-('something', 'to')	1
-('i', 'certainly')	1
-('and', 'other')	1
-('that', 'our')	1
-('and', 'felt')	1
-('some', 'ofmy')	1
-('at', 'that')	1
-('or', 'so')	1
-('a', 'week')	1
-('with', 'you')	1
-('iwasfeeling', 'really')	1
-('ilove', 'the')	1
-('you', 're')	1
-('and', 'get')	1
-('hewasn', 't')	1
-('emotions', 'and')	1
-('calm', 'and')	1
-('for', 'whatever')	1
-('upon', 'me')	1
-('of', 'being')	1
-('one', 'ofthe')	1
-('this', 'opportunity')	1
-('that', 'can')	1
-('and', 'comfortable')	1
-('working', 'out')	1
-('ido', 'however')	1
-('what', 'was')	1
-('ifeelits', 'a')	1
-('ive', 'had')	1
-('ive', 'always')	1
-('i', 'learned')	1
-('tell', 'you')	1
-('onmy', 'chest')	1
-('i', 'personally')	1
-('iam', 'still')	1
-('the', 'books')	1
-('of', 'his')	1
-('day', 'of')	1
-('and', 'be')	1
-('talking', 'about')	1
-('itook', 'a')	1
-('how', 'much')	1
-('to', 'notfeel')	1
-('ifeelvery', 'blessed')	1
-('in', 'her')	1
-('ill', 'be')	1
-('of', 'life')	1
-('im', 'getting')	1
-('ofthe', 'universe')	1
-('looking', 'for')	1
-('were', 'feeling')	1
-('hot', 'and')	1
-('inthe', 'morning')	1
-('time', 'of')	1
-('compassionate', 'toward')	1
-('in', 'between')	1
-('faithful', 'reader')	1
-('my', 'wife')	1
-('up', 'ina')	1
-('thatcompanion', 'who')	1
-('like', 'it')	1
-('for', 'our')	1
-('is', 'goingto')	1
-('compassionate', 'and')	1
-('body', 'and')	1
-('bunch', 'of')	1
-('in', 'time')	1
-('or', 'atleast')	1
-('caring', 'about')	1
-('whenit', 'comes')	1
-('love', 'and')	1
-('in', 'which')	1
-('from', 'feeling')	1
-('you', 'think')	1
-('no', 'longer')	1
-('feel', 'accepted')	1
-('for', 'years')	1
-('days', 'ifeel')	1
-('many', 'people')	1
-('i', 'worry')	1
-('a', 'story')	1
-('time', 'but')	1
-('of', 'love')	1
-('too', 'many')	1
-('to', 'eat')	1
-('iwas', 'so')	1
-('n', 'n')	1
-('end', 'ofthe')	1
-('in', 'love')	1
-('to', 'finish')	1
-('off', 'the')	1
-('family', 'and')	1
-('insome', 'way')	1
-('thinking', 'aboutit')	1
-('support', 'system')	1
-('wheniwas', 'still')	1
-('not', 'sure')	1
-('will', 'get')	1
-('co', 'workers')	1
-('wheni', 'read')	1
-('ionly', 'feel')	1
-('ifeel', 'irritated')	1
-('i', 'stoppedfeeling')	1
-('around', 'the')	1
-('i', 'wakeupfeeling')	1
-('ishouldn', 't')	1
-('icanthelp', 'feeling')	1
-('have', 'wronged')	1
-('each', 'andevery')	1
-('it', 'couldbe')	1
-('overand', 'over')	1
-('iwasfeeling', 'grouchy')	1
-('ibegan', 'tofeel')	1
-('ifeel', 'tortured')	1
-('alone', 'inmy')	1
-('it', 'does')	1
-('so', 'used')	1
-('lets', 'start')	1
-('letsstart', 'over')	1
-('or', 'my')	1
-('talk', 'toher')	1
-('ofthe', 'world')	1
-('ifeel', 'completely')	1
-('and', 'even')	1
-('shy', 'and')	1
-('threatened', 'or')	1
-('to', 'speak')	1
-('there', 'wasa')	1
-('i', 'asked')	1
-('ifeel', 'strongly')	1
-('ifeel', 'unsure')	1
-('skeptical', 'about')	1
-('it', 'did')	1
-('less', 'afraid')	1
-('sixdays', 'ofnot')	1
-('sixdaysofnot', 'knowing')	1
-('icanthandle', 'it')	1
-('ifeel', 'you')	1
-('impressed', 'withmyself')	1
-('impressed', 'withthe')	1
-('surprised', 'me')	1
-('sometimes', 'i')	1
-('ifeel', 'shocked')	1
-('feeling', 'surprised')	1
-('pleasantly', 'surprised')	1
-('curious', 'about')	1
-('curious', 'and')	1
-('ifeela', 'strange')	1
-('ifeelso', 'amazed')	1
-('i', 'stand')	1
-('ifeel', 'empty')	1
-('she', 'wants')	1
-('shewants', 'to')	1
-('social', 'life')	1
-('oh', 'its')	1
-('ireally', 'hope')	1
-('they', 're')	1
-('they', 'were')	1
-('woman', 's')	1
-('times', 'of')	1
-('and', 'so')	1
-('and', 'super')	1
-('home', 'for')	1
-('new', 'work')	1
-('piece', 'of')	1
-('fill', 'it')	1
-('seems', 'so')	1
-('ileftthe', 'place')	1
-('ilefttheplace', 'feeling')	1
-('let', 'the')	1
-('with', 'how')	1
-('no', 'where')	1
-('ifeel', 'discouraged')	1
-('why', 'should')	1
-('heaven', 'and')	1
-('is', 'my')	1
-('friend', 'is')	1
-('over', 'me')	1
-('allow', 'myself')	1
-('in', 'public')	1
+e,</w>
+t,</w>
+d,</w>
+t,h
+i,n
+s,</w>
+i,</w>
+e,l
+y,</w>
+a,n
+f,e
+in,g
+fe,el
+ing,</w>
+o,</w>
+e,r
+o,u
+e,d</w>
+o,n
+e,n
+feel,</w>
+an,d</w>
+o,r
+t,o</w>
+a,l
+th,e</w>
+m,</w>
+a,t</w>
+r,e
+f,</w>
+a,r
+a,</w>
+t,i
+l,i
+er,</w>
+l,</w>
+th,at</w>
+feel,ing</w>
+s,t
+h,a
+m,e</w>
+o,f</w>
+l,y</w>
+w,h
+v,e</w>
+in,</w>
+i,s</w>
+en,</w>
+u,s
+i,t</w>
+m,y</w>
+or,</w>
+o,w
+k,e</w>
+on,</w>
+w,a
+b,e
+a,t
+c,h
+l,e</w>
+r,i
+e,s</w>
+w,i
+a,b
+i,m</w>
+o,m
+k,</w>
+li,ke</w>
+e,s
+ou,t</w>
+g,h
+s,h
+l,o
+i,t
+s,o</w>
+ow,</w>
+b,u
+a,c
+s,u
+p,</w>
+d,i
+th,</w>
+f,or</w>
+m,a
+an,</w>
+n,o
+a,s
+u,n
+bu,t</w>
+t,t
+wa,s</w>
+v,er
+a,m</w>
+l,d</w>
+r,o
+y,ou
+al,ly</w>
+th,e
+l,e
+wi,th</w>
+th,is</w>
+b,e</w>
+ha,ve</w>
+ab,out</w>
+i,r
+no,t</w>
+l,l</w>
+s,i
+c,a
+ch,</w>
+a,s</w>
+us,t</w>
+n,e
+p,p
+g,o
+r,a
+p,e
+d,a
+n,ow</w>
+an,t</w>
+ou,ld</w>
+al,l</w>
+wh,en</w>
+j,ust</w>
+you,</w>
+s,e
+al,</w>
+on,e</w>
+s,a
+er,e</w>
+i,c
+us,e</w>
+s,ed</w>
+t,ed</w>
+e,t</w>
+o,p
+f,u
+c,on
+u,r
+ou,s</w>
+gh,t</w>
+e,m
+en,t</w>
+ca,use</w>
+re,s
+e,v
+n,</w>
+m,i
+w,e
+s,e</w>
+om,e
+th,ing</w>
+o,me</w>
+s,ome
+s,el
+be,cause</w>
+s,t</w>
+t,o
+c,om
+a,d
+or,e</w>
+ar,e</w>
+e,x
+b,y</w>
+es,s</w>
+ti,c
+a,g
+m,o
+ti,on</w>
+e,ar
+w,or
+ver,y</w>
+re,ally</w>
+d,s</w>
+m,p
+el,y</w>
+th,er</w>
+k,ing</w>
+c,e</w>
+sel,f</w>
+d,o</w>
+gh,</w>
+r,</w>
+t,s</w>
+fu,l</w>
+su,r
+ou,n
+u,p</w>
+k,now</w>
+p,o
+at,ed</w>
+t,r
+g,</w>
+c,an</w>
+i,ve</w>
+p,er
+d,e
+i,f</w>
+wh,at</w>
+ing,s</w>
+m,ore</w>
+at,e</w>
+t,a
+t,er
+da,y</w>
+ou,gh</w>
+q,u
+wa,y</w>
+it,s</w>
+st,r
+i,d</w>
+ti,me</w>
+b,o
+m,y
+h,ow</w>
+s,ti
+y,s</w>
+my,self</w>
+an,g
+f,ro
+fro,m</w>
+f,i
+o,l
+tt,le</w>
+pe,op
+be,en</w>
+d,e</w>
+t,ing</w>
+ab,le</w>
+peop,le</w>
+p,l
+li,ttle</w>
+w,</w>
+g,et</w>
+th,in
+wi,ll</w>
+the,y</w>
+ti,on
+f,e</w>
+v,er</w>
+w,ant</w>
+the,m</w>
+h,e</w>
+d,o
+sti,ll</w>
+t,er</w>
+o,d</w>
+c,i
+v,i
+a,d</w>
+er,s</w>
+n,t</w>
+k,ed</w>
+w,ould</w>
+f,a
+h,er</w>
+ha,d</w>
+s,ome</w>
+li,fe</w>
+v,ing</w>
+f,or
+on,t</w>
+p,ar
+f,in
+wh,i
+a,f
+c,u
+tic,</w>
+o,f
+oun,d</w>
+m,u
+lo,o
+thin,k</w>
+g,r
+st,ar
+z,ed</w>
+wh,o</w>
+e,p
+a,in</w>
+be,ing</w>
+p,re
+f,ri
+some,thing</w>
+as,t</w>
+y,ing</w>
+w,e</w>
+an,y</w>
+h,im</w>
+en,d</w>
+p,ro
+g,e
+m,ed</w>
+i,mp
+ti,m
+o,ver
+s,p
+b,it</w>
+an,y
+re,m
+th,ere</w>
+go,ing</w>
+ac,k</w>
+a,ma
+t,y</w>
+ev,en</w>
+m,e
+h,o
+c,ould</w>
+ow,n</w>
+mu,ch</w>
+v,ed</w>
+l,ess</w>
+u,l
+ir,</w>
+res,sed</w>
+n,o</w>
+i,s
+h,el
+su,pp
+sh,e</w>
+ha,pp
+d,nt</w>
+re,a
+es,e</w>
+t,ly</w>
+lo,ve</w>
+d,ont</w>
+sh,</w>
+ma,ke</w>
+tim,es</w>
+th,ese</w>
+on,g</w>
+t,en
+re,ad
+o,ver</w>
+it,e</w>
+th,ings</w>
+di,s
+th,an</w>
+p,ri
+on,ly</w>
+o,ther</w>
+b,l
+d,ing</w>
+t,ur
+h,is</w>
+g,u
+tt,ing</w>
+al,so</w>
+c,l
+i,l
+t,e</w>
+h,ear
+c,ar
+go,od</w>
+o,c
+g,o</w>
+ac,e</w>
+ti,ve</w>
+b,ack</w>
+r,el
+g,en
+y,ear
+you,r</w>
+ev,er</w>
+d,er</w>
+b,el
+to,o</w>
+t,u
+ou,r</w>
+r,e</w>
+mo,st</w>
+e,p</w>
+tt,y</w>
+m,in
+k,s</w>
+ic,</w>
+o,se</w>
+d,u
+st,u
+d,on</w>
+un,n
+c,ou
+ne,ed</w>
+k,e
+sur,e</w>
+c,o
+com,p
+whi,ch</w>
+the,ir</w>
+ar,d</w>
+it,y</w>
+feel,s</w>
+e,ver
+ir,d</w>
+over,wh
+overwh,el
+overwhel,med</w>
+c,ome</w>
+ha,s</w>
+ever,y
+supp,or
+el,l</w>
+h,e
+us,ed</w>
+em,b
+ar,ound</w>
+g,re
+ag,ain</w>
+d,ed</w>
+di,dnt</w>
+wa,ys</w>
+f,el
+sur,pri
+we,ird</w>
+on,g
+a,m
+g,i
+p,u
+di,d</w>
+al,l
+ri,ght</w>
+j,o
+a,u
+b,i
+a,tion</w>
+fel,t</w>
+d,er
+sh,ould</w>
+r,y</w>
+ar,</w>
+sa,y</w>
+k,es</w>
+af,ter</w>
+d,y</w>
+th,r
+tion,s</w>
+pre,tty</w>
+feel,ings</w>
+c,t</w>
+th,ough</w>
+k,in
+al,ways</w>
+in,to</w>
+str,ang
+w,ere</w>
+b,</w>
+wor,k</w>
+i,ght</w>
+t,al
+t,e
+s,en
+th,er
+si,on
+surpri,sed</w>
+w,an
+p,a
+c,re
+wh,y</w>
+mi,s
+ge,tting</w>
+qu,ite</w>
+se,e</w>
+ne,w</w>
+th,ou
+f,t</w>
+u,s</w>
+en,ce</w>
+th,en</w>
+g,e</w>
+p,res
+per,s
+g,g
+wh,ere</w>
+con,t
+b,r
+we,e
+c,er
+c,ep
+ama,zed</w>
+go,t</w>
+o,k</w>
+n,ing</w>
+ch,o
+rem,emb
+ur,e</w>
+m,any</w>
+th,ose</w>
+t,able</w>
+thr,ough</w>
+some,times</w>
+i,ous</w>
+h,i
+fri,en
+cu,ri
+l,ing</w>
+r,u
+da,ys</w>
+ma,kes</w>
+f,fe
+hel,p</w>
+p,as
+h,ere</w>
+h,op
+j,e
+fa,mi
+al,i
+fi,ed</w>
+wi,th
+do,ing</w>
+loo,k</w>
+x,</w>
+b,lo
+happ,y</w>
+tt,er</w>
+an,ce</w>
+f,unn
+funn,y</w>
+z,ing</w>
+strang,e</w>
+fami,ly</w>
+ha,ving</w>
+c,ant</w>
+s,ha
+w,ri
+rememb,er</w>
+s,in
+d,es
+f,l
+s,we
+curi,ous</w>
+imp,ressed</w>
+s,o
+ma,de</w>
+read,y</w>
+to,day</w>
+en,ough</w>
+n,er
+in,e</w>
+p,s</w>
+sion,ate</w>
+a,pp
+s,y
+sh,oc
+b,le</w>
+f,ir
+a,w
+at,ely</w>
+ou,r
+s,or
+fin,d</w>
+ic,e</w>
+o,l</w>
+l,ast</w>
+su,ch</w>
+k,y</w>
+shoc,ked</w>
+le,ft</w>
+t,w
+any,thing</w>
+sh,i
+ama,zing</w>
+a,ch</w>
+ac,tu
+di,st
+lo,ved</w>
+c,r
+tr,y</w>
+t,ra
+e,very</w>
+e,st
+re,c
+m,om
+on,s</w>
+n,ess</w>
+of,f</w>
+ac,cep
+m,ar
+h,</w>
+ta,ke</w>
+em,o
+v,es</w>
+u,m
+c,k</w>
+ow,ing</w>
+tw,o</w>
+some,one</w>
+ta,in</w>
+with,out</w>
+t,ow
+en,ed</w>
+p,r
+rel,a
+swe,et</w>
+tr,u
+d,own</w>
+t,ant</w>
+h,ome</w>
+thou,ght</w>
+i,e
+k,en</w>
+gen,er
+tr,ying</w>
+ter,ri
+si,ve</w>
+year,</w>
+es,s
+frien,ds</w>
+b,rea
+loo,king</w>
+every,thing</w>
+m,on
+w,ell</w>
+u,p
+el,</w>
+h,tt
+htt,p</w>
+actu,ally</w>
+t,ri
+whi,le</w>
+at,ing</w>
+en,ts</w>
+it,ated</w>
+ke,ep</w>
+v,ely</w>
+st,e
+g,ive</w>
+st,o
+fri,end</w>
+es,t</w>
+kin,d</w>
+lo,t</w>
+ne,ver</w>
+ne,e
+ag,itated</w>
+p,le
+un,der
+pe,ci
+re,ad</w>
+em,p
+al,ready</w>
+in,ter
+th,at
+m,ent</w>
+star,t</w>
+sa,id</w>
+in,t</w>
+l,ed</w>
+k,n
+c,ra
+c,lo
+be,g
+si,de</w>
+re,as
+star,ted</w>
+mi,ght</w>
+ple,as
+f,ac
+st,or
+an,d
+ra,ther</w>
+u,c
+s,s</w>
+com,for
+st,and</w>
+t,ful</w>
+d,ev
+p,h
+c,</w>
+fir,st</w>
+st,a
+d,r
+le,t</w>
+year,s</w>
+m,or
+l,a
+b,ab
+be,tter</w>
+f,o
+e,as
+g,ic</w>
+a,way</w>
+ar,ds</w>
+s,li
+ag,e</w>
+c,ol
+pers,on</w>
+that,s</w>
+pe,c
+t,en</w>
+com,ing</w>
+com,m
+s,it
+g,n
+o,b
+o,ld</w>
+o,m</w>
+h,re
+hre,f</w>
+the,tic</w>
+k,i
+un,</w>
+b,ed</w>
+g,ed</w>
+l,ong</w>
+e,y
+of,fe
+of,ten</w>
+any,one</w>
+d,el
+w,al
+b,or
+si,on</w>
+z,e</w>
+th,ers</w>
+per,i
+f,re
+sa,d</w>
+wan,ted</w>
+i,ll</w>
+wor,ld</w>
+g,a
+y,et</w>
+b,ad</w>
+d,n</w>
+g,ir
+w,on
+le,ast</w>
+se,e
+y,ed</w>
+at,e
+m,s</w>
+ffe,r
+f,ore</w>
+fe,w</w>
+i,es</w>
+accep,ted</w>
+tal,k</w>
+car,ing</w>
+gh,tly</w>
+da,zed</w>
+se,em
+con,f
+n,a
+w,el
+an,x
+af,ra
+afra,id</w>
+sin,ce</w>
+cer,tain</w>
+re,ali
+s,m
+le,ar
+be,fore</w>
+b,it
+mp,a
+ir,ri
+bo,dy</w>
+m,en
+le,a
+ma,king</w>
+ou,s
+di,sa
+pl,ace</w>
+h,on
+s,k
+ex,t
+do,es</w>
+wee,k</w>
+ti,s
+wa,s
+n,ed</w>
+pl,a
+ho,t</w>
+pas,sionate</w>
+t,or
+shi,p</w>
+l,ow</w>
+h,or
+w,om
+h,ur
+i,m
+l,ately</w>
+st,ed</w>
+wa,t
+an,s</w>
+al,most</w>
+sa,me</w>
+you,re</w>
+ch,ang
+l,s</w>
+p,ic
+c,ri
+ter,s</w>
+m,at
+ch,ar
+comfor,table</w>
+o,thers</w>
+t,le</w>
+sur,ed</w>
+an,tic</w>
+sy,mpa
+as,s</w>
+hop,e</w>
+w,r
+a,ch
+r,ed</w>
+ha,v
+s,er
+pu,t</w>
+hear,t</w>
+l,on
+ti,mi
+go,d</w>
+f,f</w>
+n,ight</w>
+ex,c
+mom,ent</w>
+s,cho
+s,ing</w>
+f,ace</w>
+co,ld</w>
+s,es</w>
+comp,le
+t,ely</w>
+tion,al</w>
+ma,y</w>
+t,ell</w>
+sen,se</w>
+m,us
+me,an</w>
+c,tion</w>
+bl,es
+bles,sed</w>
+ro,om</w>
+es,peci
+especi,ally</w>
+di,ffer
+en,jo
+f,ol
+su,l
+ang,ry</w>
+l,ong
+suppor,ting</w>
+sli,ghtly</w>
+conf,used</w>
+an,other</w>
+m,an</w>
+imp,or
+b,ra
+d,ra
+de,p
+in,u
+blo,g</w>
+exc,it
+d,one</w>
+ha,te</w>
+al,one</w>
+scho,ol</w>
+f,r
+po,int</w>
+de,ci
+i,l</w>
+every,one</w>
+gr,ate
+si,mp
+ner,v
+terri,fied</w>
+rela,tion
+w,ar
+ar,ly</w>
+lo,vely</w>
+l,es</w>
+suppor,tive</w>
+ten,der</w>
+en,c
+wh,o
+he,ad</w>
+w,ard</w>
+ous,ly</w>
+cont,inu
+lon,ely</w>
+sh,ed</w>
+di,dn</w>
+h,ard</w>
+su,b
+en,tly</w>
+p,ain</w>
+tow,ards</w>
+el,se</w>
+vi,e
+c,le
+ad,m
+ma,d</w>
+p,ast</w>
+reas,on</w>
+bo,ok</w>
+tur,e</w>
+c,as
+po,si
+tic,ul
+hear,</w>
+app,re
+th,re
+sympa,thetic</w>
+o,id</w>
+anx,ious</w>
+e,ach</w>
+impor,tant</w>
+seem,s</w>
+re,s</w>
+pp,o
+f,ru
+i,on</w>
+on,d</w>
+s,mi
+s,it</w>
+ext,rem
+un,i
+bel,ie
+is,sed</w>
+dis,c
+sor,t</w>
+ou,l
+sh,o
+z,y</w>
+t,el
+grate,ful</w>
+under,stand</w>
+w,ont</w>
+nerv,ous</w>
+al,s</w>
+t,re
+us,u
+stor,y</w>
+ti,es</w>
+thin,king</w>
+wi,sh</w>
+li,ked</w>
+f,ound</w>
+m,an
+bo,o
+w,o
+ma,y
+may,be</w>
+t,ally</w>
+h,ou
+fu,l
+b,ly</w>
+fu,c
+us,h
+s,ol
+ex,peri
+th,y</w>
+ki,ds</w>
+pers,on
+do,es
+hav,ent</w>
+v,en</w>
+mor,ning</w>
+extrem,ely</w>
+ta,king</w>
+belie,ve</w>
+d,a</w>
+mo,ther</w>
+ar,ing</w>
+at,ure</w>
+li,st
+st,an
+s,l
+bo,ther
+d,ent</w>
+rem,in
+star,ting</w>
+v,en
+lo,st</w>
+w,ent</w>
+g,s</w>
+par,t</w>
+lo,y
+th,s</w>
+cl,u
+se,t</w>
+par,ticul
+fre,e</w>
+c,en
+del,ic
+gener,ous</w>
+d,ou
+comp,as
+ush,ed</w>
+p,issed</w>
+un,sure</w>
+un,certain</w>
+so,ci
+b,ro
+sto,p</w>
+wat,ch
+stu,ff</w>
+hel,pl

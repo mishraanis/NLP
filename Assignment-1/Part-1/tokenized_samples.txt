@@ -1,4 +1,4 @@
-she</w>,d,ressed</w>,up</w>,in</w>,the</w>,ro,o,m
-would</w>,you</w>,like</w>,two</w>,or</w>,ten</w>,me,n
-he</w>,ate</w>,car,ing,l,y
-continu,e</w>,e,at,in,g
+she</w>,d,ressed</w>,up</w>,in</w>,the</w>,room</w>
+would</w>,you</w>,like</w>,two</w>,or</w>,ten</w>,m,en</w>
+he</w>,ate</w>,car,ing,ly</w>
+continu,e</w>,e,ating</w>

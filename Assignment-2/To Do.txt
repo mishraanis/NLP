@@ -1,0 +1,20 @@
+0) Change Bert to Legal Bert everywhere where saved
+1) Plots File for Dataset 1
+2) Accuracy and Macro-F1 file for Dataset 1
+3) Check M4 > M123 for Dataset 1
+4) Check whether best M4 test is >0.6 for Dataset 1 
+
+Create a folder for deliverables in the submission zip apart from task 1, task 2 folders. This folder should contains copies of everything stated in deliverables in one place with proper naming convention
+Report complete
+
+Evaluate and explain the plots for Dataset 1 and 2
+
+Calculate the label-wise F1 scores (for 13 labels) on test data of Dataset_1 using the
+best-performing model. Plot a bar graph or pie chart for this using code. - Optional
+
+Create separate .ipynb files for each part. The file name should follow the format:
+“A2_<Part number>.ipynb”
+
+Create a single .ipynb file for generating the final outputs that are required for submittables. It
+should be named as “A2_<Group No>_infer.ipynb”. Clearly indicate which cell corresponds to
+the output of which task/subtask.
